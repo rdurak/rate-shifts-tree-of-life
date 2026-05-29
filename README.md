@@ -215,7 +215,7 @@ Large intermediate datasets, alignments, phylogenetic trees, and structure files
 
 If you use this repository, please cite:
 
-Durak et al.
+Durak et al. 2026
 
 *Site-Specific Rate Shifts Across the Tree of Life*
 
