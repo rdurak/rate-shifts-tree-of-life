@@ -1,4 +1,4 @@
-# rate-shifts-tree-of-life
+# Site-Specific Rate Shifts Across the Tree of Life
 This repository contains the computational workflows used to investigate site-specific evolutionary rate shifts across orthologous protein families spanning the tree of life.
 
 ## Repository Structure
