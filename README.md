@@ -215,7 +215,9 @@ Large intermediate datasets, (e.g., alignments, phylogenetic trees, and structur
 
 If you use this repository, please cite:
 
-Durak et al. 2026
+Durak et al. 2026. The Shifting Tempo of Evolution: Mapping Site-Specific Rate
+Shifts Across the Tree of Life
 
-*Site-Specific Rate Shifts Across the Tree of Life*
+
+
 
