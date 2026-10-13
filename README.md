@@ -209,7 +209,7 @@ SLURM submission scripts used for large-scale analyses on HPC systems.
 
 ## Notes
 
-Large intermediate datasets, (e.g., alignments, phylogenetic trees, and structure files) are not included in this repository.
+Large intermediate datasets are not included in this repository. The data supporting this study are available on Edmond (Durak and Dutheil 2026): https://doi.org/10.17617/3.HCC2ME
 
 ## Citation
 
