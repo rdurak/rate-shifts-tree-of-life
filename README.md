@@ -209,7 +209,7 @@ SLURM submission scripts used for large-scale analyses on HPC systems.
 
 ## Notes
 
-Large intermediate datasets are not included in this repository. The data supporting this study are available on Edmond (Durak and Dutheil 2026): https://doi.org/10.17617/3.HCC2ME
+Large intermediate datasets are not included in this repository. The data supporting this study are available on Edmond: https://doi.org/10.17617/3.HCC2ME
 
 ## Citation
 
