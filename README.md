@@ -179,10 +179,10 @@ Evaluation of the phylogenetic consequences of site-specific rate shifts.
 * `03_make_modified_alignments.py`
   Generate modified alignments with altered rate-shift sites.
 
-* `04_compute_rf_bl_bs.py`
-  Compute topological, branch-length, and support differences among trees.
+* `04_compute_lrm.py`
+  Compute topological differences among trees using Lin-Rajan-Moret distance.
 
-* `05_lm_rf_bl_bs.py`
+* `05_phylogenetic_effect_models.py`
   Model factors associated with phylogenetic effects.
 
 ---
